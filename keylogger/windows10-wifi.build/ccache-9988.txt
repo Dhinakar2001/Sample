@@ -1,0 +1,837 @@
+[2022-09-05T22:03:17.461516 1452 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) base_dir = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) compiler = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) compression = true
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) debug = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) disable = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) file_clone = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) hard_link = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:17.461516 3252 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) max_files = 0
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) namespace = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) path = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) read_only = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) recache = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) reshare = false
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) stats = true
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) stats_log = 
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:17.461516 3252 ] Config: (default) umask = 
+[2022-09-05T22:03:17.461516 3252 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-09-05T22:03:17.461516 2736 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) base_dir = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) compiler = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) compression = true
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) debug = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) disable = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) file_clone = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) hard_link = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:17.461516 2736 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) max_files = 0
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) namespace = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) path = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) read_only = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) recache = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) reshare = false
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) stats = true
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) stats_log = 
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:17.461516 2736 ] Config: (default) umask = 
+[2022-09-05T22:03:17.461516 2736 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-09-05T22:03:17.461516 2736 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:17.461516 2736 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:17.461516 2736 ] Compiler type: gcc
+[2022-09-05T22:03:17.461516 3252 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:17.461516 3252 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:17.461516 1452 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:17.461516 1452 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:17.461516 1452 ] Compiler type: gcc
+[2022-09-05T22:03:17.461516 2736 ] Source file: __lonstants.c
+[2022-09-05T22:03:17.461516 2736 ] Object file: __loader.o
+o
+[2022-09-05T22:03:17.461516 1452 ] Trying direct lookup
+[2022-09-05T22:03:17.461516 3252 ] No f6e9mk0tuethh79q9kp7rbe06g92qq232 in primary storage
+[2022-09-05T22:03:17.461516 1452 ] No d0408l4fdr0paqdahs3nuc1lg267qc9ri in primary storage
+[2022-09-05T22:03:17.461516 2736 ] No 1abd0f81j6h5k3gukkpavmrm4ilm7fm2e in primary storage
+[2022-09-05T22:03:17.477142 1452 ] Running preprocessor
+[2022-09-05T22:03:17.477142 3252 ] Running preprocessor
+[2022-09-05T22:03:17.477142 2736 ] Running preprocessor
+[2022-09-05T22:03:17.477142 9664 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) base_dir = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) compiler = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) compression = true
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) debug = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) disable = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) file_clone = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) hard_link = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:17.477142 9664 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) max_files = 0
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) namespace = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) path = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) read_only = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) recache = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) reshare = false
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) stats = true
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) stats_log = 
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:17.477142 9664 ] Config: (default) umask = 
+[2022-09-05T22:03:17.477142 9664 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2022-09-05T22:03:17.492769 9664 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:17.492769 9664 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:17.492769 9664 ] Compiler type: gcc
+[2022-09-05T22:03:17.492769 9664 ] Source file: module.__main__.c
+[2022-09-05T22:03:17.492769 9664 ] Object file: module.__main__.o
+[2022-09-05T22:03:17.492769 9664 ] Trying direct lookup
+[2022-09-05T22:03:17.492769 9664 ] No 3c74tfjt1509oft0t9l6vmtpp5p0d3kk0 in primary storage
+[2022-09-05T22:03:17.492769 9664 ] Running preprocessor
+[2022-09-05T22:03:18.211598 2736 ] Got result key from preprocessor
+[2022-09-05T22:03:18.211598 2736 ] No db55up8k2122h80g8danh5cchdmv4cvta in primary storage
+[2022-09-05T22:03:18.211598 2736 ] Running real compiler
+[2022-09-05T22:03:18.399118 2736 ] Using default compression level 1
+[2022-09-05T22:03:18.399118 2736 ] Storing embedded entry #0 .o (31629 bytes) from __loader.o
+[2022-09-05T22:03:18.414743 2736 ] Stored db55up8k2122h80g8danh5cchdmv4cvta in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/b/55up8k2122h80g8danh5cchdmv4cvtaR)
+[2022-09-05T22:03:18.414743 2736 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/bd0f81j6h5k3gukkpavmrm4ilm7fm2eM
+[2022-09-05T22:03:18.414743 2736 ] Using default compression level 1
+[2022-09-05T22:03:18.430369 2736 ] Stored 1abd0f81j6h5k3gukkpavmrm4ilm7fm2e in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/bd0f81j6h5k3gukkpavmrm4ilm7fm2eM)
+[2022-09-05T22:03:18.430369 2736 ] Result: cache_miss
+[2022-09-05T22:03:18.430369 2736 ] Result: direct_cache_miss
+[2022-09-05T22:03:18.430369 2736 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:18.430369 2736 ] Result: primary_storage_miss
+[2022-09-05T22:03:18.430369 2736 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-09-05T22:03:18.430369 2736 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2022-09-05T22:03:18.430369 2736 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-09-05T22:03:18.430369 2736 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-09-05T22:03:18.445996 2736 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.2dlfD8
+[2022-09-05T22:03:18.445996 2736 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.RKLc2M
+[2022-09-05T22:03:18.445996 2736 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.gsoPJI
+[2022-09-05T22:03:18.445996 2736 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Z3uLzh.i
+[2022-09-05T22:03:18.445996 2736 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Z3uLzh
+[2022-09-05T22:03:18.477248 8720 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) base_dir = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) compiler = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) compression = true
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) debug = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) disable = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) file_clone = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) hard_link = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:18.477248 8720 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) max_files = 0
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) namespace = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) path = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) read_only = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) recache = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) reshare = false
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) stats = true
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) stats_log = 
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:18.477248 8720 ] Config: (default) umask = 
+[2022-09-05T22:03:18.477248 8720 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__parents_main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src module.__parents_main__.c
+[2022-09-05T22:03:18.477248 8720 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:18.477248 8720 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:18.477248 8720 ] Compiler type: gcc
+[2022-09-05T22:03:18.477248 8720 ] Source file: module.__parents_main__.c
+[2022-09-05T22:03:18.477248 8720 ] Object file: module.__parents_main__.o
+[2022-09-05T22:03:18.477248 8720 ] Trying direct lookup
+[2022-09-05T22:03:18.477248 8720 ] No 98bf5tc93sljf0am4t736tfovo8fdj0qi in primary storage
+[2022-09-05T22:03:18.477248 8720 ] Running preprocessor
+[2022-09-05T22:03:19.510419 1452 ] Got result key from preprocessor
+[2022-09-05T22:03:19.510419 1452 ] No a6b9pbcqlh1irp2k0174kj9nd6h75hb6o in primary storage
+[2022-09-05T22:03:19.510419 1452 ] Running real compiler
+[2022-09-05T22:03:19.510419 3252 ] Got result key from preprocessor
+[2022-09-05T22:03:19.510419 3252 ] No 33f81igpq80drl0b1mri2htvj6lqcs4s0 in primary storage
+[2022-09-05T22:03:19.510419 3252 ] Running real compiler
+[2022-09-05T22:03:19.526046 9664 ] Got result key from preprocessor
+[2022-09-05T22:03:19.526046 9664 ] No 774a124aep1jfovg6j10c1vskr0bshrs0 in primary storage
+[2022-09-05T22:03:19.526046 9664 ] Running real compiler
+[2022-09-05T22:03:19.526046 8720 ] Got result key from preprocessor
+[2022-09-05T22:03:19.526046 8720 ] No b49fqr40q3iuujnb3btpr0b7o8n6fidko in primary storage
+[2022-09-05T22:03:19.526046 8720 ] Running real compiler
+[2022-09-05T22:03:20.401139 1452 ] Using default compression level 1
+[2022-09-05T22:03:20.401139 1452 ] Storing embedded entry #0 .o (2622 bytes) from __helpers.o
+[2022-09-05T22:03:20.416766 1452 ] Stored a6b9pbcqlh1irp2k0174kj9nd6h75hb6o in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/6/b9pbcqlh1irp2k0174kj9nd6h75hb6oR)
+[2022-09-05T22:03:20.416766 1452 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/0/408l4fdr0paqdahs3nuc1lg267qc9riM
+[2022-09-05T22:03:20.432392 3252 ] Using default compression level 1
+[2022-09-05T22:03:20.432392 3252 ] Storing embedded entry #0 .o (13991 bytes) from __constants.o
+[2022-09-05T22:03:20.432392 3252 ] Stored 33f81igpq80drl0b1mri2htvj6lqcs4s0 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/3/f81igpq80drl0b1mri2htvj6lqcs4s0R)
+[2022-09-05T22:03:20.448019 3252 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/6/e9mk0tuethh79q9kp7rbe06g92qq232M
+[2022-09-05T22:03:20.448019 1452 ] Using default compression level 1
+[2022-09-05T22:03:20.448019 1452 ] Stored d0408l4fdr0paqdahs3nuc1lg267qc9ri in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/0/408l4fdr0paqdahs3nuc1lg267qc9riM)
+[2022-09-05T22:03:20.448019 1452 ] Result: cache_miss
+[2022-09-05T22:03:20.448019 1452 ] Result: direct_cache_miss
+[2022-09-05T22:03:20.448019 1452 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:20.448019 1452 ] Result: primary_storage_miss
+[2022-09-05T22:03:20.448019 1452 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-09-05T22:03:20.463646 3252 ] Using default compression level 1
+[2022-09-05T22:03:20.463646 1452 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-09-05T22:03:20.463646 1452 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-09-05T22:03:20.463646 1452 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2022-09-05T22:03:20.463646 1452 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.O94vgX
+[2022-09-05T22:03:20.463646 1452 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.6gH1uG
+[2022-09-05T22:03:20.463646 1452 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.RmI57n
+[2022-09-05T22:03:20.463646 1452 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.NLofRk.i
+[2022-09-05T22:03:20.463646 1452 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.NLofRk
+[2022-09-05T22:03:20.463646 3252 ] Stored f6e9mk0tuethh79q9kp7rbe06g92qq232 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/6/e9mk0tuethh79q9kp7rbe06g92qq232M)
+[2022-09-05T22:03:20.463646 3252 ] Result: cache_miss
+[2022-09-05T22:03:20.463646 3252 ] Result: direct_cache_miss
+[2022-09-05T22:03:20.463646 3252 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:20.463646 3252 ] Result: primary_storage_miss
+[2022-09-05T22:03:20.463646 3252 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-09-05T22:03:20.479273 3252 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-09-05T22:03:20.479273 3252 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:20.479273 3252 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:20.479273 3252 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.zWirIc
+[2022-09-05T22:03:20.479273 3252 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.pp2cCq
+[2022-09-05T22:03:20.479273 3252 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.TUZFVD
+[2022-09-05T22:03:20.494899 3252 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.nVXlCA.i
+[2022-09-05T22:03:20.494899 3252 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.nVXlCA
+[2022-09-05T22:03:20.541778 820  ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:20.541778 820  ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) base_dir = 
+[2022-09-05T22:03:20.541778 820  ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:20.541778 820  ] Config: (default) compiler = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:20.541778 820  ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:20.541778 820  ] Config: (default) compression = true
+[2022-09-05T22:03:20.541778 820  ] Config: (default) compression_level = 0
+[2022-09-05T22:03:20.541778 820  ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) debug = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) debug_dir = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) depend_mode = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) direct_mode = true
+[2022-09-05T22:03:20.541778 820  ] Config: (default) disable = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) file_clone = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) hard_link = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) hash_dir = true
+[2022-09-05T22:03:20.541778 820  ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) ignore_options = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) inode_cache = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:20.541778 820  ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:20.541778 820  ] Config: (default) max_files = 0
+[2022-09-05T22:03:20.541778 820  ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:20.541778 820  ] Config: (default) namespace = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) path = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) prefix_command = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) read_only = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) recache = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) reshare = false
+[2022-09-05T22:03:20.541778 820  ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:20.541778 820  ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:20.541778 820  ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:20.541778 820  ] Config: (default) stats = true
+[2022-09-05T22:03:20.541778 820  ] Config: (default) stats_log = 
+[2022-09-05T22:03:20.541778 820  ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:20.541778 820  ] Config: (default) umask = 
+[2022-09-05T22:03:20.541778 820  ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.multiprocessing-preLoad.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src module.multiprocessing-preLoad.c
+[2022-09-05T22:03:20.541778 820  ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:20.541778 820  ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:20.541778 820  ] Compiler type: gcc
+[2022-09-05T22:03:20.541778 820  ] Source file: module.multiprocessing-preLoad.c
+[2022-09-05T22:03:20.541778 820  ] Object file: module.multiprocessing-preLoad.o
+[2022-09-05T22:03:20.541778 820  ] Trying direct lookup
+[2022-09-05T22:03:20.541778 820  ] No c28906m6dr4hbq4tkedsn3jff8vs8j6dg in primary storage
+[2022-09-05T22:03:20.541778 820  ] Running preprocessor
+[2022-09-05T22:03:20.557406 9664 ] Using default compression level 1
+[2022-09-05T22:03:20.557406 9664 ] Storing embedded entry #0 .o (106815 bytes) from module.__main__.o
+[2022-09-05T22:03:20.557406 8720 ] Using default compression level 1
+[2022-09-05T22:03:20.557406 8720 ] Storing embedded entry #0 .o (114999 bytes) from module.__parents_main__.o
+[2022-09-05T22:03:20.573032 7312 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) base_dir = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) compiler = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) compression = true
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) debug = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) disable = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) file_clone = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) hard_link = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:20.573032 7312 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) max_files = 0
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) namespace = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) path = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) read_only = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) recache = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) reshare = false
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) stats = true
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) stats_log = 
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:20.573032 7312 ] Config: (default) umask = 
+[2022-09-05T22:03:20.573032 7312 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.multiprocessing-postLoad.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src module.multiprocessing-postLoad.c
+[2022-09-05T22:03:20.573032 7312 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:20.573032 7312 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:20.573032 7312 ] Compiler type: gcc
+[2022-09-05T22:03:20.573032 7312 ] Source file: module.multiprocessing-postLoad.c
+[2022-09-05T22:03:20.573032 7312 ] Object file: module.multiprocessing-postLoad.o
+[2022-09-05T22:03:20.573032 7312 ] Trying direct lookup
+[2022-09-05T22:03:20.573032 7312 ] No 6778oe7iuc4sft6k1ub9jcd3sd98vnh4a in primary storage
+[2022-09-05T22:03:20.573032 7312 ] Running preprocessor
+[2022-09-05T22:03:20.573032 9664 ] Stored 774a124aep1jfovg6j10c1vskr0bshrs0 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/7/4a124aep1jfovg6j10c1vskr0bshrs0R)
+[2022-09-05T22:03:20.573032 8720 ] Stored b49fqr40q3iuujnb3btpr0b7o8n6fidko in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/4/9fqr40q3iuujnb3btpr0b7o8n6fidkoR)
+[2022-09-05T22:03:20.588658 9664 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/c/74tfjt1509oft0t9l6vmtpp5p0d3kk0M
+[2022-09-05T22:03:20.588658 8720 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/8/bf5tc93sljf0am4t736tfovo8fdj0qiM
+[2022-09-05T22:03:20.588658 9664 ] Using default compression level 1
+[2022-09-05T22:03:20.604285 8720 ] Using default compression level 1
+[2022-09-05T22:03:20.604285 9664 ] Stored 3c74tfjt1509oft0t9l6vmtpp5p0d3kk0 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/c/74tfjt1509oft0t9l6vmtpp5p0d3kk0M)
+[2022-09-05T22:03:20.604285 9664 ] Result: cache_miss
+[2022-09-05T22:03:20.604285 9664 ] Result: direct_cache_miss
+[2022-09-05T22:03:20.604285 9664 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:20.604285 9664 ] Result: primary_storage_miss
+[2022-09-05T22:03:20.604285 9664 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:20.604285 8720 ] Stored 98bf5tc93sljf0am4t736tfovo8fdj0qi in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/8/bf5tc93sljf0am4t736tfovo8fdj0qiM)
+[2022-09-05T22:03:20.604285 8720 ] Result: cache_miss
+[2022-09-05T22:03:20.604285 8720 ] Result: direct_cache_miss
+[2022-09-05T22:03:20.604285 8720 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:20.604285 8720 ] Result: primary_storage_miss
+[2022-09-05T22:03:20.604285 8720 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-09-05T22:03:20.604285 8720 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-09-05T22:03:20.604285 8720 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-09-05T22:03:20.619912 9664 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:20.619912 9664 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-09-05T22:03:20.619912 8720 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2022-09-05T22:03:20.619912 8720 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.Te5PFc
+[2022-09-05T22:03:20.619912 8720 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.CVIOQT
+[2022-09-05T22:03:20.619912 8720 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.1HXckC
+[2022-09-05T22:03:20.619912 8720 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.2viVrq.i
+[2022-09-05T22:03:20.619912 8720 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.2viVrq
+[2022-09-05T22:03:20.619912 9664 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-09-05T22:03:20.619912 9664 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.Y1Bh3f
+[2022-09-05T22:03:20.619912 9664 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.6Lzpkl
+[2022-09-05T22:03:20.619912 9664 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.9bInkv
+[2022-09-05T22:03:20.619912 9664 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.bhc5on.i
+[2022-09-05T22:03:20.619912 9664 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.bhc5on
+[2022-09-05T22:03:20.682418 9092 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) base_dir = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) compiler = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) compression = true
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) debug = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) disable = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) file_clone = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) hard_link = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:20.682418 9092 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) max_files = 0
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) namespace = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) path = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) read_only = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) recache = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) reshare = false
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) stats = true
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) stats_log = 
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:20.682418 9092 ] Config: (default) umask = 
+[2022-09-05T22:03:20.682418 9092 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-09-05T22:03:20.682418 9092 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:20.682418 9092 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:20.682418 9092 ] Compiler type: gcc
+[2022-09-05T22:03:20.682418 9092 ] Source file: static_src\MainProgram.c
+[2022-09-05T22:03:20.682418 9092 ] Object file: static_src\MainProgram.o
+[2022-09-05T22:03:20.682418 9092 ] Trying direct lookup
+[2022-09-05T22:03:20.682418 9092 ] No 46c5lkdssg9b5kqt9ivvgn3pm3lus1r1m in primary storage
+[2022-09-05T22:03:20.682418 9092 ] Running preprocessor
+[2022-09-05T22:03:20.698045 592  ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:20.698045 592  ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) base_dir = 
+[2022-09-05T22:03:20.698045 592  ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:20.698045 592  ] Config: (default) compiler = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:20.698045 592  ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:20.698045 592  ] Config: (default) compression = true
+[2022-09-05T22:03:20.698045 592  ] Config: (default) compression_level = 0
+[2022-09-05T22:03:20.698045 592  ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) debug = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) debug_dir = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) depend_mode = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) direct_mode = true
+[2022-09-05T22:03:20.698045 592  ] Config: (default) disable = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) file_clone = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) hard_link = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) hash_dir = true
+[2022-09-05T22:03:20.698045 592  ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) ignore_options = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) inode_cache = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:20.698045 592  ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:20.698045 592  ] Config: (default) max_files = 0
+[2022-09-05T22:03:20.698045 592  ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:20.698045 592  ] Config: (default) namespace = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) path = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) prefix_command = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) read_only = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) recache = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) reshare = false
+[2022-09-05T22:03:20.698045 592  ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:20.698045 592  ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:20.698045 592  ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:20.698045 592  ] Config: (default) stats = true
+[2022-09-05T22:03:20.698045 592  ] Config: (default) stats_log = 
+[2022-09-05T22:03:20.698045 592  ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:20.698045 592  ] Config: (default) umask = 
+[2022-09-05T22:03:20.698045 592  ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-09-05T22:03:20.698045 592  ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:20.698045 592  ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:20.698045 592  ] Compiler type: gcc
+[2022-09-05T22:03:20.698045 592  ] Source file: static_src\CompiledCellType.c
+[2022-09-05T22:03:20.698045 592  ] Object file: static_src\CompiledCellType.o
+[2022-09-05T22:03:20.698045 592  ] Trying direct lookup
+[2022-09-05T22:03:20.698045 592  ] No c6fcdbvcouugqjbkr5b9cv7110d6udj2i in primary storage
+[2022-09-05T22:03:20.698045 592  ] Running preprocessor
+[2022-09-05T22:03:21.166844 820  ] Got result key from preprocessor
+[2022-09-05T22:03:21.166844 820  ] No c7ac3e3p2nkvp5btil73h88o767epmqbm in primary storage
+[2022-09-05T22:03:21.166844 820  ] Running real compiler
+[2022-09-05T22:03:21.182471 7312 ] Got result key from preprocessor
+[2022-09-05T22:03:21.182471 7312 ] No 7935msmki5gp3mn13vsjkp2j10hmcvr5m in primary storage
+[2022-09-05T22:03:21.182471 7312 ] Running real compiler
+[2022-09-05T22:03:21.291858 592  ] Got result key from preprocessor
+[2022-09-05T22:03:21.291858 592  ] No 937ci177d885ta4uiudq8vgsfdgctktd6 in primary storage
+[2022-09-05T22:03:21.291858 592  ] Running real compiler
+[2022-09-05T22:03:22.088818 820  ] Using default compression level 1
+[2022-09-05T22:03:22.088818 820  ] Storing embedded entry #0 .o (58688 bytes) from module.multiprocessing-preLoad.o
+[2022-09-05T22:03:22.088818 820  ] Stored c7ac3e3p2nkvp5btil73h88o767epmqbm in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/7/ac3e3p2nkvp5btil73h88o767epmqbmR)
+[2022-09-05T22:03:22.088818 820  ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/8906m6dr4hbq4tkedsn3jff8vs8j6dgM
+[2022-09-05T22:03:22.104444 820  ] Using default compression level 1
+[2022-09-05T22:03:22.120073 820  ] Stored c28906m6dr4hbq4tkedsn3jff8vs8j6dg in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/2/8906m6dr4hbq4tkedsn3jff8vs8j6dgM)
+[2022-09-05T22:03:22.120073 820  ] Result: cache_miss
+[2022-09-05T22:03:22.120073 820  ] Result: direct_cache_miss
+[2022-09-05T22:03:22.120073 820  ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:22.120073 820  ] Result: primary_storage_miss
+[2022-09-05T22:03:22.120073 820  ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-09-05T22:03:22.120073 820  ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-09-05T22:03:22.120073 820  ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-09-05T22:03:22.135697 820  ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-09-05T22:03:22.135697 820  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.GOBxsM
+[2022-09-05T22:03:22.135697 820  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.0t4wpf
+[2022-09-05T22:03:22.135697 820  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.suA0So
+[2022-09-05T22:03:22.135697 820  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.hdJn8O.i
+[2022-09-05T22:03:22.135697 820  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.hdJn8O
+[2022-09-05T22:03:22.229457 7312 ] Using default compression level 1
+[2022-09-05T22:03:22.229457 7312 ] Storing embedded entry #0 .o (86449 bytes) from module.multiprocessing-postLoad.o
+[2022-09-05T22:03:22.229457 592  ] Using default compression level 1
+[2022-09-05T22:03:22.229457 592  ] Storing embedded entry #0 .o (35361 bytes) from static_src\CompiledCellType.o
+[2022-09-05T22:03:22.229457 7312 ] Stored 7935msmki5gp3mn13vsjkp2j10hmcvr5m in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/9/35msmki5gp3mn13vsjkp2j10hmcvr5mR)
+[2022-09-05T22:03:22.229457 592  ] Stored 937ci177d885ta4uiudq8vgsfdgctktd6 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/3/7ci177d885ta4uiudq8vgsfdgctktd6R)
+[2022-09-05T22:03:22.229457 7312 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/78oe7iuc4sft6k1ub9jcd3sd98vnh4aM
+[2022-09-05T22:03:22.245084 592  ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/fcdbvcouugqjbkr5b9cv7110d6udj2iM
+[2022-09-05T22:03:22.245084 592  ] Using default compression level 1
+[2022-09-05T22:03:22.260710 7312 ] Using default compression level 1
+[2022-09-05T22:03:22.260710 7312 ] Stored 6778oe7iuc4sft6k1ub9jcd3sd98vnh4a in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/78oe7iuc4sft6k1ub9jcd3sd98vnh4aM)
+[2022-09-05T22:03:22.260710 592  ] Stored c6fcdbvcouugqjbkr5b9cv7110d6udj2i in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/fcdbvcouugqjbkr5b9cv7110d6udj2iM)
+[2022-09-05T22:03:22.260710 7312 ] Result: cache_miss
+[2022-09-05T22:03:22.260710 7312 ] Result: direct_cache_miss
+[2022-09-05T22:03:22.260710 592  ] Result: cache_miss
+_cache_miss
+[2022-09-05T22:03:22.260710 7312 ] Result: primary_storage_miss
+[2022-09-05T22:03:22.260710 592  ] Result: direct_cache_miss
+[2022-09-05T22:03:22.260710 592  ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:22.260710 592  ] Result: primary_storage_miss
+[2022-09-05T22:03:22.260710 7312 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-09-05T22:03:22.260710 7312 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-09-05T22:03:22.260710 7312 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-09-05T22:03:22.276337 592  ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2022-09-05T22:03:22.276337 592  ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-09-05T22:03:22.276337 7312 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2022-09-05T22:03:22.276337 7312 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.5vxQTC
+[2022-09-05T22:03:22.276337 7312 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.9AFV3t
+[2022-09-05T22:03:22.276337 7312 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.iYU2hH
+[2022-09-05T22:03:22.276337 7312 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.MF2EDn.i
+[2022-09-05T22:03:22.276337 7312 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.MF2EDn
+[2022-09-05T22:03:22.276337 592  ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2022-09-05T22:03:22.276337 592  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.ltGxq7
+[2022-09-05T22:03:22.276337 592  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.yjhEDZ
+[2022-09-05T22:03:22.276337 592  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.TE8SsA
+[2022-09-05T22:03:22.276337 592  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EgEOH1.i
+[2022-09-05T22:03:22.276337 592  ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.EgEOH1
+[2022-09-05T22:03:22.416979 9092 ] Got result key from preprocessor
+[2022-09-05T22:03:22.416979 9092 ] No 68837uuv8rsrod1372m5q17b3hvc7uvb6 in primary storage
+[2022-09-05T22:03:22.416979 9092 ] Running real compiler
+[2022-09-05T22:03:22.755833 8956 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) base_dir = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) compiler = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) compression = true
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) debug = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) disable = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) file_clone = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) hard_link = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:22.755833 8956 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) max_files = 0
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) namespace = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) path = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) read_only = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) recache = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) reshare = false
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) stats = true
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) stats_log = 
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:22.755833 8956 ] Config: (default) umask = 
+[2022-09-05T22:03:22.755833 8956 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-09-05T22:03:22.771460 8956 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:22.771460 8956 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:22.771460 8956 ] Compiler type: gcc
+[2022-09-05T22:03:22.771460 8956 ] Source file: static_src\CompiledFunctionType.c
+[2022-09-05T22:03:22.771460 8956 ] Object file: static_src\CompiledFunctionType.o
+[2022-09-05T22:03:22.771460 8956 ] Trying direct lookup
+[2022-09-05T22:03:22.771460 8956 ] No 69fbo5ngn4ofe2584mbuc2qtlmg7lldga in primary storage
+[2022-09-05T22:03:22.771460 8956 ] Running preprocessor
+[2022-09-05T22:03:22.833966 7552 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) base_dir = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) compiler = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) compression = true
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) debug = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) disable = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) file_clone = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) hard_link = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:22.833966 7552 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) max_files = 0
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) namespace = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) path = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) read_only = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) recache = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) reshare = false
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) stats = true
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) stats_log = 
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:22.833966 7552 ] Config: (default) umask = 
+[2022-09-05T22:03:22.833966 7552 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-09-05T22:03:22.833966 7552 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:22.833966 7552 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:22.833966 7552 ] Compiler type: gcc
+[2022-09-05T22:03:22.833966 7552 ] Source file: static_src\CompiledGeneratorType.c
+[2022-09-05T22:03:22.833966 7552 ] Object file: static_src\CompiledGeneratorType.o
+[2022-09-05T22:03:22.833966 7552 ] Trying direct lookup
+[2022-09-05T22:03:22.833966 7552 ] No ef9bbu7ea2jv0qcbse4cm6l81j1oj8cc6 in primary storage
+[2022-09-05T22:03:22.833966 7552 ] Running preprocessor
+[2022-09-05T22:03:22.849593 1784 ] === CCACHE 4.6 STARTED =========================================
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) absolute_paths_in_stderr = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) base_dir = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (environment) cache_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) compiler = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) compiler_check = mtime
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) compiler_type = auto
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) compression = true
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) compression_level = 0
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) cpp_extension = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) debug = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) debug_dir = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) depend_mode = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) direct_mode = true
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) disable = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) extra_files_to_hash = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) file_clone = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) hard_link = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) hash_dir = true
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) ignore_headers_in_manifest = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) ignore_options = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) inode_cache = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) keep_comments_cpp = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) limit_multiple = 0.8
+[2022-09-05T22:03:22.849593 1784 ] Config: (environment) log_file = C:\Users\User\DOCUME~1\compile\windows10-wifi.build\ccache-9988.txt
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) max_files = 0
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) max_size = 5.0G
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) namespace = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) path = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) pch_external_checksum = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) prefix_command = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) prefix_command_cpp = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) read_only = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) read_only_direct = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) recache = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) reshare = false
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) run_second_cpp = true
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) secondary_storage = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) stats = true
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) stats_log = 
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) temporary_dir = C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-09-05T22:03:22.849593 1784 ] Config: (default) umask = 
+[2022-09-05T22:03:22.849593 1784 ] Command line: C:\Users\User\AppData\Local\Nuitka\Nuitka\ccache\v4.6\ccache.exe C:\Users\User\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=154 -D_NUITKA_EXE -D_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1 -IC:\Program Files\Python39\include -I. -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\include -IC:\Users\User\AppData\Roaming\Python\Python39\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-09-05T22:03:22.849593 1784 ] Hostname: DESKTOP-KFUJAV8
+[2022-09-05T22:03:22.849593 1784 ] Working directory: C:/Users/User/DOCUME~1/compile/windows10-wifi.build
+[2022-09-05T22:03:22.849593 1784 ] Compiler type: gcc
+[2022-09-05T22:03:22.849593 1784 ] Source file: static_src\InspectPatcher.c
+[2022-09-05T22:03:22.849593 1784 ] Object file: static_src\InspectPatcher.o
+[2022-09-05T22:03:22.849593 1784 ] Trying direct lookup
+[2022-09-05T22:03:22.849593 1784 ] No 4dfddagracskkb0h1kmkbans31ujih0co in primary storage
+[2022-09-05T22:03:22.849593 1784 ] Running preprocessor
+[2022-09-05T22:03:23.443407 1784 ] Got result key from preprocessor
+[2022-09-05T22:03:23.443407 1784 ] No ff23lc4euj62obsd11iff7d0a75bd0m0c in primary storage
+[2022-09-05T22:03:23.443407 1784 ] Running real compiler
+[2022-09-05T22:03:23.474660 7552 ] Got result key from preprocessor
+[2022-09-05T22:03:23.474660 7552 ] No 39bdtqedp9igeh1tmn7qbqc0dagtm8g0q in primary storage
+[2022-09-05T22:03:23.474660 7552 ] Running real compiler
+[2022-09-05T22:03:23.724686 9092 ] Using default compression level 1
+[2022-09-05T22:03:23.724686 9092 ] Storing embedded entry #0 .o (35883 bytes) from static_src\MainProgram.o
+[2022-09-05T22:03:23.724686 9092 ] Stored 68837uuv8rsrod1372m5q17b3hvc7uvb6 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/837uuv8rsrod1372m5q17b3hvc7uvb6R)
+[2022-09-05T22:03:23.724686 9092 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/6/c5lkdssg9b5kqt9ivvgn3pm3lus1r1mM
+[2022-09-05T22:03:23.755940 9092 ] Using default compression level 1
+[2022-09-05T22:03:23.755940 9092 ] Stored 46c5lkdssg9b5kqt9ivvgn3pm3lus1r1m in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/6/c5lkdssg9b5kqt9ivvgn3pm3lus1r1mM)
+[2022-09-05T22:03:23.755940 9092 ] Result: cache_miss
+[2022-09-05T22:03:23.755940 9092 ] Result: direct_cache_miss
+[2022-09-05T22:03:23.755940 9092 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:23.755940 9092 ] Result: primary_storage_miss
+[2022-09-05T22:03:23.755940 9092 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-09-05T22:03:23.771566 9092 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-09-05T22:03:23.771566 9092 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-09-05T22:03:23.771566 9092 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-09-05T22:03:23.771566 9092 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.iChm7i
+[2022-09-05T22:03:23.771566 9092 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.I7PNtg
+[2022-09-05T22:03:23.771566 9092 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.tXqzAi
+[2022-09-05T22:03:23.771566 9092 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Dw7SEW.i
+[2022-09-05T22:03:23.771566 9092 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.Dw7SEW
+[2022-09-05T22:03:24.287247 1784 ] Using default compression level 1
+[2022-09-05T22:03:24.287247 1784 ] Storing embedded entry #0 .o (42213 bytes) from static_src\InspectPatcher.o
+[2022-09-05T22:03:24.302873 1784 ] Stored ff23lc4euj62obsd11iff7d0a75bd0m0c in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/f/23lc4euj62obsd11iff7d0a75bd0m0cR)
+[2022-09-05T22:03:24.302873 1784 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/d/fddagracskkb0h1kmkbans31ujih0coM
+[2022-09-05T22:03:24.302873 1784 ] Using default compression level 1
+[2022-09-05T22:03:24.318499 1784 ] Stored 4dfddagracskkb0h1kmkbans31ujih0co in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/d/fddagracskkb0h1kmkbans31ujih0coM)
+[2022-09-05T22:03:24.318499 1784 ] Result: cache_miss
+[2022-09-05T22:03:24.318499 1784 ] Result: direct_cache_miss
+[2022-09-05T22:03:24.318499 1784 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:24.318499 1784 ] Result: primary_storage_miss
+[2022-09-05T22:03:24.318499 1784 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-09-05T22:03:24.334126 1784 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2022-09-05T22:03:24.334126 1784 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-09-05T22:03:24.334126 1784 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2022-09-05T22:03:24.334126 1784 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.cGYjpI
+[2022-09-05T22:03:24.334126 1784 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.T79bN0
+[2022-09-05T22:03:24.334126 1784 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.MwgrVx
+[2022-09-05T22:03:24.334126 1784 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.t3Zisz.i
+[2022-09-05T22:03:24.334126 1784 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.t3Zisz
+[2022-09-05T22:03:24.552899 7552 ] Using default compression level 1
+[2022-09-05T22:03:24.552899 7552 ] Storing embedded entry #0 .o (357445 bytes) from static_src\CompiledGeneratorType.o
+[2022-09-05T22:03:24.599779 7552 ] Stored 39bdtqedp9igeh1tmn7qbqc0dagtm8g0q in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/9/bdtqedp9igeh1tmn7qbqc0dagtm8g0qR)
+[2022-09-05T22:03:24.599779 7552 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/9bbu7ea2jv0qcbse4cm6l81j1oj8cc6M
+[2022-09-05T22:03:24.615407 7552 ] Using default compression level 1
+[2022-09-05T22:03:24.615407 7552 ] Stored ef9bbu7ea2jv0qcbse4cm6l81j1oj8cc6 in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/9bbu7ea2jv0qcbse4cm6l81j1oj8cc6M)
+[2022-09-05T22:03:24.615407 7552 ] Result: cache_miss
+[2022-09-05T22:03:24.615407 7552 ] Result: direct_cache_miss
+[2022-09-05T22:03:24.615407 7552 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:24.615407 7552 ] Result: primary_storage_miss
+[2022-09-05T22:03:24.631059 7552 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-09-05T22:03:24.631059 7552 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-09-05T22:03:24.631059 7552 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:24.631059 7552 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:24.631059 7552 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1eNmPV
+[2022-09-05T22:03:24.631059 7552 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.3MVTWh
+[2022-09-05T22:03:24.631059 7552 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.vIhPNW
+[2022-09-05T22:03:24.631059 7552 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.DjzAjj.i
+[2022-09-05T22:03:24.631059 7552 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.DjzAjj
+[2022-09-05T22:03:25.193591 8956 ] Got result key from preprocessor
+[2022-09-05T22:03:25.193591 8956 ] No 3ae85pj5pepv9l5i9v1823ufeidotdq5u in primary storage
+[2022-09-05T22:03:25.193591 8956 ] Running real compiler
+[2022-09-05T22:03:29.007635 8956 ] Using default compression level 1
+[2022-09-05T22:03:29.007635 8956 ] Storing embedded entry #0 .o (2919458 bytes) from static_src\CompiledFunctionType.o
+[2022-09-05T22:03:29.023258 8956 ] Stored 3ae85pj5pepv9l5i9v1823ufeidotdq5u in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/e85pj5pepv9l5i9v1823ufeidotdq5uR)
+[2022-09-05T22:03:29.023258 8956 ] Adding result key to C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/9/fbo5ngn4ofe2584mbuc2qtlmg7lldgaM
+[2022-09-05T22:03:29.038885 8956 ] Using default compression level 1
+[2022-09-05T22:03:29.038885 8956 ] Stored 69fbo5ngn4ofe2584mbuc2qtlmg7lldga in primary storage (C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/9/fbo5ngn4ofe2584mbuc2qtlmg7lldgaM)
+[2022-09-05T22:03:29.038885 8956 ] Result: cache_miss
+[2022-09-05T22:03:29.038885 8956 ] Result: direct_cache_miss
+[2022-09-05T22:03:29.038885 8956 ] Result: preprocessed_cache_miss
+[2022-09-05T22:03:29.038885 8956 ] Result: primary_storage_miss
+[2022-09-05T22:03:29.038885 8956 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-09-05T22:03:29.054513 8956 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2022-09-05T22:03:29.054513 8956 ] Acquired lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:29.054513 8956 ] Releasing lock C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2022-09-05T22:03:29.054513 8956 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.ZTfCAB
+[2022-09-05T22:03:29.054513 8956 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.gmlbxo
+[2022-09-05T22:03:29.054513 8956 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.Af0tE9
+[2022-09-05T22:03:29.054513 8956 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.TfSHMo.i
+[2022-09-05T22:03:29.054513 8956 ] Unlink C:\Users\User\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.TfSHMo
