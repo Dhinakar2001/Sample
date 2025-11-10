@@ -1,0 +1,10 @@
+{
+  "name": "fuel-eu-backend-scaffold",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Implement backend dev server (e.g. ts-node-dev)\"",
+    "test": "echo \"Add backend tests (Jest/Mocha + Supertest)\""
+  },
+  "devDependencies": {}
+}

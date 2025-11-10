@@ -1,0 +1,10 @@
+{
+  "name": "fuel-eu-frontend-scaffold",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Implement frontend dev server (e.g. Vite/CRA)\"",
+    "test": "echo \"Add frontend tests (Vitest/Jest)\""
+  },
+  "devDependencies": {}
+}
